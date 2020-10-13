@@ -1,1 +1,1 @@
-# how-to-print-specific-page-in-uwp-datagrid
+# how-to-disable-print-preview-in-uwp-datagrid
