@@ -20,3 +20,8 @@ private void DataGrid_PrintTaskRequested(object sender, DataGridPrintTaskRequest
 ```
 
 ![Showing the print dialog with print preview disabled](PrintDialogWithoutPrintPreview.png)
+
+Take a moment to peruse the [UWP DataGrid - Printing](https://help.syncfusion.com/uwp/datagrid/printing) documentation, where you can find about `DataGrid` printing with code examples.
+
+## Requirements to run the demo
+Visual Studio 2015 and above versions
